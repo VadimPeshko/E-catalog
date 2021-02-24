@@ -1,0 +1,10 @@
+export const SET_CATEGORY = 'SET_CATEGORY';
+export const SET_SEARCH = 'SET_SEARCH';
+export const SET_PRODUCTS = 'SET_PRODUCTS';
+export const SET_LOADER = 'SET_LOADER';
+export const SET_PRODUCT = 'SET_PRODUCT';
+export const ADD_PRODUCT = 'ADD_PRODUCT';
+export const REMOVE_PRODUCTS = 'REMOVE_PRODUCTS';
+export const REMOVE_PRODUCT = 'REMOVE_PRODUCT';
+export const PLUS_CART_ITEM = 'PLUS_CART_ITEM';
+export const MINUS_CART_ITEM = 'MINUS_CART_ITEM';

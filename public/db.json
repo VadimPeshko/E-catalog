@@ -1,0 +1,84 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "imageUrl": "https://xistore.by/upload/imager/a9a8d409ce43c3da674bd90ee44145d8.jpg",
+      "imageLarge": "https://xistore.by/upload/imager/cc07c84eb7cbf2ae070e689c72664dd4.jpg",
+      "name": "Смартфон Xiaomi Redmi Note 8",
+      "types": [
+        0,
+        1
+      ],
+      "price": 529,
+      "category": 0,
+      "rating": 4,
+      "display": 6.53,
+      "memory": 64,
+      "camera": 28
+    },
+    {
+      "id": "2",
+      "imageUrl": "https://xistore.by/upload/resize/section/products/d4f/44de05a09b0ddbe517657fce764817be_200_200_75.webp",
+      "imageLarge": "https://xistore.by/upload/imager/1a97621db12bd9eefdec91da5704025d.jpg",
+      "name": "Смартфон Xiaomi Redmi Note 8 Pro",
+      "types": [
+        0,
+        1
+      ],
+      "price": 699,
+      "category": 0,
+      "rating": 4,
+      "display": 6.53,
+      "memory": 64,
+      "camera": 64
+    },
+    {
+      "id": "3",
+      "imageUrl": "https://xistore.by/upload/resize/section/products/021/da9eb35a69cfad0e00828974e7c34582_200_200_75.webp",
+      "imageLarge": "https://xistore.by/upload/imager/2c85ce3c7f6fe949e697f24988dd46c9.jpg",
+      "name": "Ноутбук Xiaomi Mi Notebook Pro 15.6",
+      "types": [
+        0,
+        1
+      ],
+      "price": 3399,
+      "category": 1,
+      "rating": 4,
+      "display": 15.6,
+      "memory": 256,
+      "camera": 1
+    },
+    {
+      "id": "4",
+      "imageUrl": "https://xistore.by/upload/resize/section/products/8ad/421571eefb024cd9a8844b4fabc929a5_200_200_75.webp",
+      "imageLarge": "https://xistore.by/upload/imager/e6fcc9c462601870e464eaf9d9cd754e.jpg",
+      "name": "Фитнес-браслет Xiaomi Mi Smart Band 5",
+      "types": [
+        0,
+        1
+      ],
+      "price": 109,
+      "category": 2,
+      "rating": 4,
+      "display": 1.1,
+      "memory": 512,
+      "camera": 1
+    },
+    {
+      "id": "5",
+      "imageUrl": "https://xistore.by/upload/resize/section/products/557/1731c73cb9dd7a1349f654887286aa67_200_200_75.webp",
+      "imageLarge": "https://xistore.by/upload/imager/23c4aba6989dc24b77c9d22f507af5e7.jpg",
+      "name": "Умные часы Amazfit Bip",
+      "types": [
+        0,
+        1
+      ],
+      "price": 179,
+      "category": 3,
+      "rating": 4,
+      "display": 1.28,
+      "memory": 16,
+      "camera": 1
+    }
+  ]
+}
